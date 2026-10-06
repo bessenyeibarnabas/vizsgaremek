@@ -1,0 +1,20 @@
+1, Egyed relációs diagramm
+-2féle (Cher-féle, Crows foot)
+
+Cher-féle:
+
+
+Crows foot:
+Egyed1
+-ATR 1
+-Atr 2
+Kulcs Atribútum
+
+
+2; ER diagram ->Relációséma
+EGYED1(atr1, atr2, KULCS_ATR)
+EGYED1(atr1, atr2(kulcs atrrel),)
+
+3, Relációséma Normalizálása (3NF)
+-Vizsgálat(1NF -> 2NF-> 3NF)
+
