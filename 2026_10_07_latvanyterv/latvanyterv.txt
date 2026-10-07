@@ -1,0 +1,20 @@
+1; látványterv, ux
+-Oldalak, nézetek kapcsolatok; melyik oldalról hová lehet menni, pl: home => Bejelentkezés, stb
+-Felhasználói utak, pl: melyik user ki hová tud menni. Aki nem regisztrált sehova, de a regisztrált Bejelentkezés => webshop => kosár stb...
+
+2; Wireframing (vázlatkészítés)
+-elrendezési terv (pl, amit paint-be rajzoltunk GY. J. -nél)
+
+3; UI kialakítás -(Figma Prog)
+-grid system beállítása (4; 8px)
+-Tipográfia
+-Színek (elsődleges szín, másodlagos, text&bg color; siker/hiba színek)
+-Komponensek
+-Változók(:hover, :active)
+
+4; Véglegesítés
+-design 3kijelzőre (mobil <567px, tablet, monitor >992px)
+
+5; helper web
+-Color hunt
+-Google font
