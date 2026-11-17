@@ -1,0 +1,7 @@
+-Statikus HTML+css oldalak készítése, látványterv alapján.
+    -már bootstrap vagy tailwind (bootstrappel egyszerűbb)
+
+-Komponensek létrehozása
+    -ne egy file-ba legyen az egész css
+
+-MOBILE FIRST
